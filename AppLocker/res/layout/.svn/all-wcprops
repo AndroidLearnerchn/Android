@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/trunk/AppLocker/res/layout
+END
+lockscreen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/AppLocker/res/layout/lockscreen.xml
+END
+preferences.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/AppLocker/res/layout/preferences.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/AppLocker/res/layout/main.xml
+END
+applicationlist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/AppLocker/res/layout/applicationlist.xml
+END
+applicationlist_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/trunk/AppLocker/res/layout/applicationlist_item.xml
+END
+tab.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/AppLocker/res/layout/tab.xml
+END

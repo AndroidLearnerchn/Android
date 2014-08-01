@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/AppLocker/src/com/gueei/applocker
+END
+DetectorService.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6/trunk/AppLocker/src/com/gueei/applocker/DetectorService.java
+END
+ApplicationListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/AppLocker/src/com/gueei/applocker/ApplicationListActivity.java
+END
+ActivityStartingHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6/trunk/AppLocker/src/com/gueei/applocker/ActivityStartingHandler.java
+END
+AppLockerActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/AppLocker/src/com/gueei/applocker/AppLockerActivity.java
+END
+AppLockerApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/AppLocker/src/com/gueei/applocker/AppLockerApplication.java
+END
+StartupServiceReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/AppLocker/src/com/gueei/applocker/StartupServiceReceiver.java
+END
+LockScreenActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/trunk/AppLocker/src/com/gueei/applocker/LockScreenActivity.java
+END
+AppLockerPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/AppLocker/src/com/gueei/applocker/AppLockerPreference.java
+END
+AppLockerPreferenceActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/AppLocker/src/com/gueei/applocker/AppLockerPreferenceActivity.java
+END
+ActivityStartingListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/AppLocker/src/com/gueei/applocker/ActivityStartingListener.java
+END

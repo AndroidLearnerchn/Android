@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/5/trunk/AppLocker/res/values
+END
+arrays.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/AppLocker/res/values/arrays.xml
+END
+logcats.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5/trunk/AppLocker/res/values/logcats.xml
+END
+styles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/AppLocker/res/values/styles.xml
+END
+strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/AppLocker/res/values/strings.xml
+END
